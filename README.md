@@ -1,2 +1,2 @@
 # Form.github.io
-Made A Form Regarding A Website.
+Made A Form for any application purposes.
